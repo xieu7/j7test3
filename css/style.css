@@ -5,7 +5,6 @@ body{
     background-color: rgb(0, 74, 85);
 }
 .testpic{
-    border: 1px solid #fff;
     color: rgb(0, 0, 0);
     background-image: url(../img/home.png);
     width: 409px;
