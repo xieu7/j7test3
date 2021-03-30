@@ -1,11 +1,11 @@
 body{
-    width: 408px;
-    height: 714px;
+    width: 410px;
+    height: 716px;
     margin: 0;
 }
 .testpic{
     border: 1px solid;
-    color: rgb(0, 0, 255);
-    width: 409px;
-    height: 715px;
+    color: rgb(0, 255, 0);
+    width: 410px;
+    height: 716px;
 }
